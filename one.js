@@ -17,7 +17,7 @@ for(i=0;i<5;i++){
 
  var num2=prompt("Please enter a 3 digit number");
 //    document.write(" ");
-// 	document.write(num2);
+	document.write(num2+"<br />");
  var a=num2/100;
  var b=num2%100;
  var b1=Math.floor(a);
