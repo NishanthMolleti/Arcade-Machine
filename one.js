@@ -51,7 +51,7 @@ for(i=0;i<5;i++){
  if(a3==b1||a3==b2)
  	cows=cows+1;
  document.write(cows);
- document.write(" cows");
+ document.write(" cows ");
  if(bull==3)
  	document.write(" Bingo!!! You won the game ;) ");
 }
