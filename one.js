@@ -12,10 +12,10 @@ var a1=Math.floor(n);
 // document.write(" ");
 // document.write(a3);
 
+var i=0;
+for(i=0;i<5;i++){
 
-
-
- var num2=prompt("Please enter a number");
+ var num2=prompt("Please enter a 3 digit number");
 //    document.write(" ");
 // 	document.write(num2);
  var a=num2/100;
@@ -54,5 +54,5 @@ var a1=Math.floor(n);
  document.write(" cows");
  if(bull==3)
  	document.write(" Bingo!!! You won the game ;) ");
-
+}
   
